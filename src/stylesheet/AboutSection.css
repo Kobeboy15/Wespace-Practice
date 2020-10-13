@@ -1,0 +1,24 @@
+.about__section {
+    background: #222;
+}
+
+.about__container {
+    max-width: 900px;
+    margin: auto;
+    color: #fff;
+    padding: 42px 0;
+}
+
+.about__title {
+    margin: 0;
+    text-align: center;
+    font-size: 42px;
+    margin-bottom: 24px;
+}
+
+.about__description {
+    line-height: 42px;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}

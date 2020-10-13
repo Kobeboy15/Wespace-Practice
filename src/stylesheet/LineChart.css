@@ -1,0 +1,9 @@
+.chart__section {
+    background: #222
+}
+
+.chart__container {
+    margin: auto;
+    max-width: 900px;
+    padding: 8px 0 42px 0;
+}

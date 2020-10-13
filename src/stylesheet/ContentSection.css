@@ -1,0 +1,50 @@
+.banner__section {
+    height: 100%;
+    background-color: #222222;
+}
+
+.banner__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 900px;
+    height: 300px;
+    margin: auto;
+    color: white;
+}
+
+.banner__title {
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 28px;
+}
+
+.action__button {
+    padding: 18px 56px;
+    margin: 0 20px;
+    border: 1px solid #fff;
+    cursor: pointer;
+
+}
+
+.button__read-more {
+    background: #222222;
+    color: #ffffff;
+    transition: 0.1s ease-out;
+}
+
+.button__read-more:hover {
+    background: #fff;
+    color: #222;
+    transition: 0.1s ease-out;
+}
+
+.button__join-now {
+    transition: 0.2s ease-out;
+}
+
+.button__join-now:hover {
+    transition: 0.2s ease-out;
+    transform: scale(1.1);
+}

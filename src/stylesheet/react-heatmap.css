@@ -1,0 +1,25 @@
+.heatmap__section {
+    background: #222;
+}
+
+.heatmap__container {
+    margin: auto;
+    max-width: 900px;
+    padding: 36px;
+}
+
+#react-heatmap {
+    background-image: url('../images/world-map.png');
+    background-origin: content-box;
+    background-size: contain;
+    border: 1px solid #fff;
+    height: 50vh;
+    padding: 34px;
+    background-repeat: no-repeat;
+}
+
+.heatmap-canvas {
+    width: 100%;
+    height: 100%;
+}
+
